@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFurqanPallawagau
 - 👀 I’m interested in Anime And Game 
-- 🌱 I’m currently learning Python And Javascript 
+- 🌱 I’m currently learning Python And php i wanted study c++ too but is realy challegging language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just chat me on whatsapp 082349212015
 
